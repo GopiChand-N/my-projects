@@ -1,0 +1,5 @@
+Settingup continuous hinting in jupyter lab(3.x):
+1) open anaconda command prompt and run the command  pip install jupyterlab-lsp==5.1.0
+2) restart jupyter lab
+3) Enable Advanced Settings Editor → Code Completion → continuousHinting 
+4) Also Enable Advanced Settings Editor → Code Completion → Autocomplete
